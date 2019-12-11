@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/decrement-counter/static/css/main.cfe60efb.chunk.css",
+    "main.js": "/decrement-counter/static/js/main.f8ebc1ae.chunk.js",
+    "main.js.map": "/decrement-counter/static/js/main.f8ebc1ae.chunk.js.map",
+    "runtime-main.js": "/decrement-counter/static/js/runtime-main.0ba99f58.js",
+    "runtime-main.js.map": "/decrement-counter/static/js/runtime-main.0ba99f58.js.map",
+    "static/js/2.cb9c59fd.chunk.js": "/decrement-counter/static/js/2.cb9c59fd.chunk.js",
+    "static/js/2.cb9c59fd.chunk.js.map": "/decrement-counter/static/js/2.cb9c59fd.chunk.js.map",
+    "index.html": "/decrement-counter/index.html",
+    "precache-manifest.2ab23b58e03cd21d7f402db55f1ef3f3.js": "/decrement-counter/precache-manifest.2ab23b58e03cd21d7f402db55f1ef3f3.js",
+    "service-worker.js": "/decrement-counter/service-worker.js",
+    "static/css/main.cfe60efb.chunk.css.map": "/decrement-counter/static/css/main.cfe60efb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0ba99f58.js",
+    "static/js/2.cb9c59fd.chunk.js",
+    "static/css/main.cfe60efb.chunk.css",
+    "static/js/main.f8ebc1ae.chunk.js"
+  ]
+}
